@@ -1,0 +1,8 @@
+.ui-omniPost {
+  width: 500px;
+}
+
+.ui-omniPostActive {
+  color: #a1a1a1; 
+  font-style: italic;
+}
